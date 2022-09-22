@@ -7,7 +7,7 @@
 ### Installation
 
 #### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thechosenone07/Media-Search-bot.git)
 
 #### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
 
